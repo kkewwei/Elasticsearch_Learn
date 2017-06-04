@@ -23,7 +23,17 @@
 
 <footer>
     <hr />
-    <p>生命不止 奋斗不息</p>
+    <script type="text/javascript">
+        if (localStorage.pagecount)
+                {
+                    localStorage.pagecount=Number(localStorage.pagecount) +1;
+                }
+        else
+        {
+            localStorage.pagecount=1;
+        }
+        document.write("第" + localStorage.pagecount + "位访客");
+    </script>
 </footer>
 </body>
 </html>
