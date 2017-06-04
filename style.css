@@ -87,7 +87,7 @@ aside li{
     border-bottom:1px solid #eaeada;
     }
 aside ul li a{
-    background-image: url(Img/bullet.gif);
+    background-image: url("Img/cerely.jpg");
     background-repeat:no-repeat;
     background-position:left center;
     display:block;
