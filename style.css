@@ -7,7 +7,7 @@ body{
 
 
 header{
-    background: url(Img/bgheader.jpg) no-repeat #85D0ED;
+    background: url(Img/cerely.jpg) no-repeat #85D0ED;
     width: 902px;
     height: 203px;
     padding-top: 0px;
@@ -111,7 +111,7 @@ aside li{
 
 
 aside ul li a{
-    background-image: url(Img/bullet.gif);
+    background-image: url(Img/cerely.jpg);
     background-repeat:no-repeat;
     background-position:left center;
     display:block;

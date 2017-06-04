@@ -28,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
+            <state relative-caret-position="390">
               <caret line="36" column="0" selection-start-line="34" selection-start-column="12" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
@@ -38,10 +38,17 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3525">
-              <caret line="235" column="5" selection-start-line="235" selection-start-column="5" selection-end-line="235" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="112" column="14" selection-start-line="112" selection-start-column="14" selection-end-line="112" selection-end-column="14" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cerely.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Img/cerely.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -120,6 +127,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -427,9 +448,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css.css" />
     <entry file="file://$PROJECT_DIR$/css.css" />
+    <entry file="file://$PROJECT_DIR$/Img/cerely.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="390">
           <caret line="36" column="0" selection-start-line="34" selection-start-column="12" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
@@ -437,8 +463,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3525">
-          <caret line="235" column="5" selection-start-line="235" selection-start-column="5" selection-end-line="235" selection-end-column="5" />
+        <state relative-caret-position="180">
+          <caret line="112" column="14" selection-start-line="112" selection-start-column="14" selection-end-line="112" selection-end-column="14" />
           <folding />
         </state>
       </provider>
