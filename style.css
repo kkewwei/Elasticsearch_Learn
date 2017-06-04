@@ -7,12 +7,11 @@ body{
 
 
 header{
-    background: url(Img/cerely.jpg) no-repeat #85D0ED;
     width: 902px;
     height: 203px;
     padding-top: 0px;
     margin: 0px auto;
-    color: #000000;
+    color: #85D0ED;
     }
 
 
@@ -53,7 +52,7 @@ nav ul li{
     padding-left:0px;
     padding-top:0px;
     padding-bottom:0px;
-    width:150px;
+    width:33%;
     }
 
 
@@ -111,11 +110,11 @@ aside li{
 
 
 aside ul li a{
-    background-image: url(Img/cerely.jpg);
+    /*background-image: url(Img/cerely.jpg);*/
     background-repeat:no-repeat;
     background-position:left center;
     display:block;
-    background-color:#ffffff;
+    background-color:#98F5FF;
     line-height:1.7em;
     margin-right:0px;
     padding-top:6px;
@@ -153,7 +152,7 @@ aside .selected{
 
 
 
-
+/*
 section{
     float:left;
     width:75%;
@@ -165,7 +164,7 @@ section{
     padding:5px;
     }
 
-
+*/
 section h1{
     display:block;
     font-size:0.9em;
