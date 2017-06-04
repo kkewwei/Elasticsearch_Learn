@@ -4,11 +4,6 @@
     <list default="true" id="1ef01fda-a336-4dfd-a627-d0bc995ceda4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_me.html" afterPath="$PROJECT_DIR$/about_me.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elasticsearch/Bulk_Index.html" afterPath="$PROJECT_DIR$/elasticsearch/Bulk_Index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elasticserch_shard.html" afterPath="$PROJECT_DIR$/elasticserch_shard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/life.html" afterPath="$PROJECT_DIR$/life.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lucene_shard.html" afterPath="$PROJECT_DIR$/lucene_shard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/more.html" afterPath="$PROJECT_DIR$/more.html" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="more.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="more.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/more.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+            <state relative-caret-position="120">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -90,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_me.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about_me.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about_me.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+            <state relative-caret-position="120">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -140,10 +135,10 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/life.html" />
         <option value="$PROJECT_DIR$/elasticsearch/Bulk_Index.html" />
-        <option value="$PROJECT_DIR$/about_me.html" />
         <option value="$PROJECT_DIR$/elasticserch_shard.html" />
         <option value="$PROJECT_DIR$/lucene_shard.html" />
         <option value="$PROJECT_DIR$/more.html" />
+        <option value="$PROJECT_DIR$/about_me.html" />
       </list>
     </option>
   </component>
@@ -570,14 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about_me.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/elasticserch_shard.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -620,8 +607,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/more.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+        <state relative-caret-position="120">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_me.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding />
         </state>
       </provider>
