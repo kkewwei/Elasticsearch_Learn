@@ -4,6 +4,8 @@ body{
     text-align: center;
     color: #333333;
 }
+
+
 header{
     /*background: url(Img/bgheader.jpg) no-repeat #85D0ED;*/
     width: 902px;
@@ -12,6 +14,8 @@ header{
     margin: 0px auto;
     color: #000000;
     }
+
+
 header h1 {
     float:left;
     font-size:2.9em;
@@ -22,9 +26,13 @@ header h1 {
     font-weight:bolder;
     letter-spacing:-1px;
     }
+
+
 .orange{
     color:#e67e1f;
     }
+
+
 nav{
     list-style-type:none;
     margin:0px auto;
@@ -47,6 +55,8 @@ nav ul li{
     padding-bottom:0px;
     width:150px;
     }
+
+
 nav ul li a{
     display:block;
     background-color:#37210c;
@@ -59,10 +69,14 @@ nav ul li a{
     font-size: 0.8em;
     text-decoration: none;
     }
+
+
 nav li a:hover{
     color: #000;
     background-color:#ecf9ff;
     }
+
+
 nav ul li .selected{
     color: #ecf9ff;
     background-color:#e67e1f;
@@ -73,12 +87,18 @@ aside{
     margin-left:10px;
     height:50%;
     }
+
+
 aside ul{
     list-style:none;
     margin-bottom:20px;
     margin-top:20px;
     margin-left:0px;
     }
+
+
+
+
 aside li{
     text-align:left;
     padding-left:0px;
@@ -86,8 +106,12 @@ aside li{
     padding-bottom:0px;
     border-bottom:1px solid #eaeada;
     }
+
+
+
+
 aside ul li a{
-    /*#background-image: url("Img/cerely.jpg");*/
+    /*background-image: url(Img/bullet.gif);*/
     background-repeat:no-repeat;
     background-position:left center;
     display:block;
@@ -103,14 +127,22 @@ aside ul li a{
     text-decoration: none;
     width:165px;
     }
+
+
 aside  li a:hover{
     color: #37210c;
     background-color:#f7f7f2;
     }
+
+
 aside .selected{
     color: #37210c;
     background-color:#f7f7f2;
     }
+
+
+
+
 #content{
     margin:0 auto;
     width:902px;
@@ -118,6 +150,10 @@ aside .selected{
     height:290px;
     clear:both;
     }
+
+
+
+
 section{
     float:left;
     width:75%;
@@ -128,6 +164,8 @@ section{
     font-size:0.9em;
     padding:5px;
     }
+
+
 section h1{
     display:block;
     font-size:0.9em;
@@ -142,13 +180,16 @@ section h1{
     margin-top:5px;
     margin-left:12px;
     }
+
+
 section p{
     font: normal 0.9em Arial, Verdana, Helvetica, sans-serif;
     font-size:0.9em;
     color: #000000;
     padding:10px;
     text-align:left;
-}
+    }
+
 
 footer {
     width:902px;
@@ -165,6 +206,8 @@ footer {
     padding-bottom: 0px;
     padding-left: 0px;
     }
+
+
 footer p{
     font-size:0.7em;
     font-family:arial;
@@ -174,6 +217,8 @@ footer p{
     padding:25px 0 0 10px;
     text-align:center;
     }
+
+
 footer a {
     font-size:1em;
     text-decration:none;
@@ -181,6 +226,8 @@ footer a {
     color:#467AA7;
     text-align:center;
     }
+
+
 footer a:hover{
     text-decoration:underline;
     font-weight:normal;
