@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1ef01fda-a336-4dfd-a627-d0bc995ceda4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elasticsearch/Bulk_Index.html" afterPath="$PROJECT_DIR$/elasticsearch/Bulk_Index.html" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,8 +57,8 @@
       <file leaf-file-name="Bulk_Index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/elasticsearch/Bulk_Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            <state relative-caret-position="165">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -785,8 +784,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/elasticsearch/Bulk_Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        <state relative-caret-position="165">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="12" />
           <folding />
         </state>
       </provider>
